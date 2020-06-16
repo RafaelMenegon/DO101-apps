@@ -2,7 +2,7 @@ var express = require('express');
 app = express();
 
 app.get('/', function (req, res) {
-  res.send('KEREN ELISA EU TE AMO!\n');
+  res.send('RUMO A ARQUITETURA DE CLOUD RAFAEL MENEGON!\n');
 });
 
 app.get('/mars', function (req, res) {
